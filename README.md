@@ -1,14 +1,31 @@
-- 👋 Hi, I’m @AstroNat
-- 👀 I’m interested in webdevelopment and software devlopment
-- 🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red&logoSize=auto&labelColor=black&color=red)
-, ![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=blue&logoSize=auto&labelColor=black&color=blue)
- and ![Static Badge](https://img.shields.io/badge/Java_script-yellow?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto&labelColor=black)
+# 👋 Hi, I’m @AstroNat  
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nathanasres100@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+👀 I’m passionate about **Web Development** and **Software Development**.  
+🌱 Currently learning and experimenting with:  
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red)  
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)  
 
+💞️ I’m looking to collaborate on:  
+- Beginner-friendly open source projects 🌍  
+- Frontend projects with **HTML, CSS, JavaScript, React** ⚡  
+- Anything that challenges me to learn and grow 💡  
+
+📫 How to reach me:  
+✉️ **nathanasres100@gmail.com**  
+
+😄 Pronouns: **he/him**    
+
+---
+
+## 🛠️ Tools & Tech I’m Exploring
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)  
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)  
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)  
+
+---
+
+*Work in progress — just like me!* 🚀
 <!---
 AstroNat/AstroNat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
