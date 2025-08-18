@@ -11,8 +11,7 @@
 - Frontend projects with **HTML, CSS, JavaScript, React** ⚡  
 - Anything that challenges me to learn and grow 💡  
 
-📫 How to reach me:  
-✉️ **nathanasres100@gmail.com**  
+📫 How to reach me: ✉️ **nathanasres100@gmail.com**  
 
 😄 Pronouns: **he/him**    
 
