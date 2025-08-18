@@ -2,8 +2,8 @@
 
 👀 I’m passionate about **Web Development** and **Software Development**.  
 🌱 Currently learning and experimenting with:  
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red)  
-![Static Badge](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=blue&logoSize=auto&color=black)  
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red)
+![Static Badge](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=blue&logoSize=auto&color=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)  
 
 💞️ I’m looking to collaborate on:  
